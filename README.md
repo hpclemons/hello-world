@@ -1,2 +1,2 @@
 # hello-world
-going thru beginner's guild
+going thru beginner's guide
